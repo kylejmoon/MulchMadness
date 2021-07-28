@@ -1,5 +1,3 @@
-# MulchMadness
-
 # McNemar test
 # Raw_data.csv presents 6 data points from all 27 houses with pre- and post-mulching samples
 # Soil lead concentration was collapsed into categorical variables in hazard_categorical_data.csv, which uses EPA hazard thresholds
@@ -13,4 +11,4 @@
      Statistical Computing, Vienna, Austria. URL
      https://www.R-project.org/.
      
-    # Code makes use of all three data files, all of which can be downloaded from the McNemar branch of the Mulch Madness repository
+# Code makes use of all three data files, all of which can be downloaded from the McNemar branch of the Mulch Madness repository
