@@ -2,7 +2,7 @@
 
 ### Wilcoxon signed-rank test
 ##### Data were not normally distributed (tested with Shapiro-Wilk test), so Wilcoxon signed-rank test was used to compare  soil lead concentration before and after mulching
-##### Neighborhood data and pilot study (renovated community-based organization) referenced in the script (Wilcoxon) are accessible here
+##### Neighborhood data and pilot study (renovated community-based organization) referenced in the script (Wilcoxon) are accessible here: pre_mulch_normality, post_mulch_normality, pilot
     
 
 ### McNemar test
