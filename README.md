@@ -26,7 +26,7 @@
 
 ### In all scripts, more packages are included than necessary. These scripts came from one larger script where visualizations were developed. 
 
-### Code was written with R Statistical Software, which is open source and can be downloaded from https://www.r-project.org/
+## Code was written with R Statistical Software, which is open source and can be downloaded from https://www.r-project.org/
     R Core Team (2020). R: A language and environment
      for statistical computing. R Foundation for
      Statistical Computing, Vienna, Austria. URL
