@@ -13,6 +13,12 @@
 ##### To assess change in hazard threshold (i.e. if home with hazardous soil lead concentration was no longer hazardous after mulching), use Hazard_matrix.csv
 #### All three data files included in script (McNemar) are accessible here: hazard_categorical, hazard_matrix, raw_data
 
+### Kruskal-Wallis test
+##### For pilot study data, Kruskal-Wallis test was used to assess (i) differences in lead concentration as a function of distance from the building foundation at the recently renovated community-based organization [grid analysis] and (ii) differences in lead concentration among community-based organization and four neighboring homes
+    Dunn's test with Bonferroni correction was used for multiple comparisons 
+    Kruskal-Wallis test was used after Levene test indicated homogeneity of variance violated (assumption of ANOVA)
+##### Both data files included in script (KruskalWallis) are accessible here: pilot_grid_analysis, pilot_street
+
 
 ### Code was written with R Statistical Software, which is open source and can be downloaded from https://www.r-project.org/
     R Core Team (2020). R: A language and environment
