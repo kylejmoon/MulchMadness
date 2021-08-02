@@ -19,6 +19,12 @@
     - Kruskal-Wallis test was used after Levene test indicated homogeneity of variance violated (assumption of ANOVA)
 ##### Both data files included in script (KruskalWallis) are accessible here: pilot_grid_analysis, pilot_street
 
+### Mann-Whitney U test
+##### To compare soil lead concentration between neighboring homes of the renovated community-based organization and the rest of the neighborhood, Mann-Whitney U test was used
+    - Shapiro-Wilk test indicated data were not normally distributed 
+##### Data file included in script (MannWhitney) accessible here: neighborhood_comparison
+
+### In all scripts, more packages are included than necessary. These scripts came from one larger script where visualizations were developed. 
 
 ### Code was written with R Statistical Software, which is open source and can be downloaded from https://www.r-project.org/
     R Core Team (2020). R: A language and environment
