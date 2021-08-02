@@ -1,0 +1,28 @@
+Before1978,ID,HazardDescripBefore,HazardDescripAfter,HazardChange
+Yes,1,Hazard,No intervention required,HazardNoIntervention
+Yes,2,Hazard,No intervention required,HazardNoIntervention
+Yes,3,Hazard,No intervention required,HazardNoIntervention
+Yes,4,Hazard,No intervention required,HazardNoIntervention
+Yes,5,Hazard,No intervention required,HazardNoIntervention
+Yes,6,No intervention required,Hazard,NoIntHazard
+No,7,No intervention required,No intervention required,NoIntNoInt
+No,8,No intervention required,No intervention required,NoIntNoInt
+Yes,9,Hazard,No intervention required,HazardNoIntervention
+Yes,10,Hazard,Hazard,HazardHazard
+Yes,11,No intervention required,No intervention required,NoIntNoInt
+Yes,12,Hazard,No intervention required,HazardNoIntervention
+Yes,13,Hazard,No intervention required,HazardNoIntervention
+Yes,14,Hazard,No intervention required,HazardNoIntervention
+Yes,15,Hazard,No intervention required,HazardNoIntervention
+Yes,16,Hazard,No intervention required,HazardNoIntervention
+Yes,17,Hazard,No intervention required,HazardNoIntervention
+Yes,18,Hazard,Hazard,HazardHazard
+Yes,19,Hazard,No intervention required,HazardNoIntervention
+Yes,20,No intervention required,Hazard,NoIntHazard
+Yes,21,Hazard,Hazard,HazardHazard
+Yes,22,Hazard,No intervention required,HazardNoIntervention
+Yes,23,Hazard,No intervention required,HazardNoIntervention
+Yes,24,Hazard,No intervention required,HazardNoIntervention
+Yes,25,Hazard,No intervention required,HazardNoIntervention
+Yes,26,Hazard,No intervention required,HazardNoIntervention
+Yes,27,Hazard,Hazard,HazardHazard
